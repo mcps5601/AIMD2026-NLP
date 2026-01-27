@@ -16,7 +16,7 @@
 |:---:|:---|:---:|:---:|
 | **Day 1** | **NLP 介紹與向量嵌入** <br> (Introduction, Embeddings) | [⬇️ Download PDF](./slides/d1_embeddings.pdf) | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/D1_embeddings.ipynb) |
 | **Day 2** | **RNN and Transformer** <br> (RNN, Transformer, BERT) | [⬇️ Download PDF](./slides/d2_transformer.pdf) | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/D2_classification.ipynb) |
-| **Day 3** | **大型語言模型與 RAG 應用** <br> (GPT, LLMs, Retrieval-Augmented Generation) | [⬇️ Download PDF](./slides/) | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/) |
+| **Day 3** | **大型語言模型與 RAG 應用** <br> (GPT, LLMs, Retrieval-Augmented Generation) | [⬇️ Download PDF](./slides/d3_llm_rag.pdf) | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/D3_llm_groq.ipynb) |
 
 
 ---
