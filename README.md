@@ -17,6 +17,7 @@
 | **Day 1** | **NLP 介紹與向量嵌入** <br> (Introduction, Embeddings) | [⬇️ Download PDF](./slides/d1_embeddings.pdf) | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/D1_embeddings.ipynb) |
 | **Day 2** | **RNN and Transformer** <br> (RNN, Transformer, BERT) | [⬇️ Download PDF](./slides/d2_transformer.pdf) | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/D2_classification.ipynb) |
 | **Day 3** | **大型語言模型與 RAG 應用** <br> (GPT, LLMs, Retrieval-Augmented Generation) | [⬇️ Download PDF](./slides/d3_llm_rag.pdf) | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/D3_llm_groq.ipynb) |
+| **Day 4** | **大型語言模型與 RAG 練習** <br> (Assignment) | 請將[訓練資料](./code/pubmedqa_train_corpus.json)、[測試資料](./code/pubmedqa_100.json)與[作業檔案](./code/D4_assignment.ipynb)一起上傳至 Colab | [![Jupyter](https://img.shields.io/badge/-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](./code/D4_assignment.ipynb) |
 
 
 ---
